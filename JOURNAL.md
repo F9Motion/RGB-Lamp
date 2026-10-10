@@ -6,4 +6,5 @@ PCB I always do in KiCad so I open KiCad and created new project. The idea is wi
 <img width="1065" height="663" alt="Снимок экрана 2026-10-10 174252" src="https://github.com/user-attachments/assets/03fee8ba-48bc-4740-9f9d-f45c5926a74c" />
 **Total time spent: 1 hour**
 
-# October 8: Doing case
+# October 8: Complating PCB and starting case
+After PCB I started to do case At fitst I add plane and made circle form plane. Then I extridude this to arrive 3d model from 2d. I did hole in this shape for batery and PCB and for display(Later I add holes for 2 mechanic bottoms). 
