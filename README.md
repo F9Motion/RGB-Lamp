@@ -38,7 +38,7 @@ this project was made with KiCad, Thonny IDE and Blender!
 | bottom.step | $0.53 |
 | glass.step | $0.7 |
 | pushes.step | $0.01 |
-
+| Total | $48.43 |
 
 
 ## AI DISCLOSURE
